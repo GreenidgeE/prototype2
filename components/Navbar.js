@@ -11,7 +11,7 @@ export default function Navbar() {
 
   return (
     <nav className="bg-white shadow p-4 flex justify-between">
-      <span className="font-bold text-xl">Prototype 1</span>
+      <span className="font-bold text-xl text-blue-600">Prototype 3</span>
       <div>XP: {xp} 🔥</div>
     </nav>
   );
